@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Register xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/crm/2011/tools/pluginregistration">
+  <Solutions>
+    <Solution Assembly="VACC.CRM.Sync.Plugins.dll" Id="eb00d4f0-4e86-e411-be50-d89d67763d34" IsolationMode="Sandbox" SourceType="Database">
+      <PluginTypes>
+        <Plugin Description="Plug-in to PostOperationSync" FriendlyName="PostOperationSync" Name="VACC.CRM.Sync.Plugins.PostOperationSync" Id="c722a0e4-f3a0-e411-93f9-005056a771b1" TypeName="VACC.CRM.Sync.Plugins.PostOperationSync">
+          <Steps>
+            <clear />
+            <Step CustomConfiguration="" Name="PostOperationSync" Description="Post Operation Sync" Id="0b0c9e28-4f86-e411-be50-d89d67763d34" MessageName="Create" Mode="Synchronous" PrimaryEntityName="contact" Rank="1" SecureConfiguration="" Stage="PostOutsideTransaction" SupportedDeployment="ServerOnly">
+              <Images />
+            </Step>
+            <Step CustomConfiguration="" Name="PostOperationSync" Description="Post Operation Sync" Id="61cc6c62-10a8-e411-9401-005056a72ac5" MessageName="Update" Mode="Synchronous" PrimaryEntityName="contact" Rank="1" SecureConfiguration="" Stage="PostOutsideTransaction" SupportedDeployment="ServerOnly">
+              <Images />
+            </Step>
+            <Step CustomConfiguration="" Name="PostOperationSync" Description="Post Operation Sync" Id="64cc6c62-10a8-e411-9401-005056a72ac5" MessageName="Delete" Mode="Synchronous" PrimaryEntityName="contact" Rank="1" SecureConfiguration="" Stage="PostOutsideTransaction" SupportedDeployment="ServerOnly">
+              <Images />
+            </Step>
+            <Step CustomConfiguration="" Name="PostOperationSync" Description="Post Operation Sync" Id="67cc6c62-10a8-e411-9401-005056a72ac5" MessageName="Create" Mode="Synchronous" PrimaryEntityName="account" Rank="1" SecureConfiguration="" Stage="PostOutsideTransaction" SupportedDeployment="ServerOnly">
+              <Images />
+            </Step>
+            <Step CustomConfiguration="" Name="PostOperationSync" Description="Post Operation Sync" Id="6acc6c62-10a8-e411-9401-005056a72ac5" MessageName="Update" Mode="Synchronous" PrimaryEntityName="account" Rank="1" SecureConfiguration="" Stage="PostOutsideTransaction" SupportedDeployment="ServerOnly">
+              <Images />
+            </Step>
+            <Step CustomConfiguration="" Name="PostOperationSync" Description="Post Operation Sync" Id="6dcc6c62-10a8-e411-9401-005056a72ac5" MessageName="Delete" Mode="Synchronous" PrimaryEntityName="account" Rank="1" SecureConfiguration="" Stage="PostOutsideTransaction" SupportedDeployment="ServerOnly">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+      </PluginTypes>
+    </Solution>
+    <Solution Assembly="VACC.CRM.Sync.Workflow.dll" Id="f3ef3205-1287-e411-be50-d89d67763d34" IsolationMode="Sandbox" SourceType="Database">
+      <WorkflowTypes>
+        <WorkflowType FriendlyName="ProcessSyncItem" Name="ProcessSyncItem" Description="This is the workflow that will process Sync Items" WorkflowActivityGroupName="VACC.CRM.Sync" Id="c822a0e4-f3a0-e411-93f9-005056a771b1" TypeName="VACC.CRM.Sync.Workflow.ProcessSyncItems" />
+      </WorkflowTypes>
+    </Solution>
+  </Solutions>
+  <XamlWorkflows />
+</Register>

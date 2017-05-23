@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{88A30576-7583-4F75-8136-5EFD2C14ADFF}") = "CrmPackage", "VACC.CRM.Sync\CrmPackage\CrmPackage.csproj", "{73A2B5C2-49FB-4FA0-8F28-A6603A0FD6BC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EE0F86B8-D6E1-4534-876F-53BC94BCA988} = {EE0F86B8-D6E1-4534-876F-53BC94BCA988}
+		{547EDAD4-793B-40D2-8CF5-EDBB2C36CE8B} = {547EDAD4-793B-40D2-8CF5-EDBB2C36CE8B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "VACC.CRM.Sync\Plugins\Plugins.csproj", "{547EDAD4-793B-40D2-8CF5-EDBB2C36CE8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workflow", "VACC.CRM.Sync\Workflow\Workflow.csproj", "{EE0F86B8-D6E1-4534-876F-53BC94BCA988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSyncEntitiesCreator", "CustomSyncEntitiesCreator\CustomSyncEntitiesCreator.csproj", "{8E2ECD2B-7649-4506-839F-5A7A0C420643}"
+EndProject
+Global
+	GlobalSection(CRMSolutionProperties) = preSolution
+		SolutionIsBoundToCRM = True
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A2B5C2-49FB-4FA0-8F28-A6603A0FD6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A2B5C2-49FB-4FA0-8F28-A6603A0FD6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A2B5C2-49FB-4FA0-8F28-A6603A0FD6BC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{73A2B5C2-49FB-4FA0-8F28-A6603A0FD6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A2B5C2-49FB-4FA0-8F28-A6603A0FD6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A2B5C2-49FB-4FA0-8F28-A6603A0FD6BC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{547EDAD4-793B-40D2-8CF5-EDBB2C36CE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547EDAD4-793B-40D2-8CF5-EDBB2C36CE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547EDAD4-793B-40D2-8CF5-EDBB2C36CE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547EDAD4-793B-40D2-8CF5-EDBB2C36CE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE0F86B8-D6E1-4534-876F-53BC94BCA988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0F86B8-D6E1-4534-876F-53BC94BCA988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0F86B8-D6E1-4534-876F-53BC94BCA988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0F86B8-D6E1-4534-876F-53BC94BCA988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2ECD2B-7649-4506-839F-5A7A0C420643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2ECD2B-7649-4506-839F-5A7A0C420643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2ECD2B-7649-4506-839F-5A7A0C420643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2ECD2B-7649-4506-839F-5A7A0C420643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

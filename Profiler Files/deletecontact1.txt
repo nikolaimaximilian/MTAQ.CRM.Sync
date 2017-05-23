@@ -1,0 +1,28 @@
+Unhandled Exception: System.ServiceModel.FaultException`1[[Microsoft.Xrm.Sdk.OrganizationServiceFault, Microsoft.Xrm.Sdk, Version=6.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]: System.Web.HttpUnhandledException: Microsoft Dynamics CRM has experienced an error. Reference number for administrators or support: #26AF0492Detail: 
+<OrganizationServiceFault xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/xrm/2011/Contracts">
+  <ErrorCode>-2147220970</ErrorCode>
+  <ErrorDetails xmlns:d2p1="http://schemas.datacontract.org/2004/07/System.Collections.Generic" />
+  <Message>System.Web.HttpUnhandledException: Microsoft Dynamics CRM has experienced an error. Reference number for administrators or support: #26AF0492</Message>
+  <Timestamp>2015-01-18T23:26:39.8849844Z</Timestamp>
+  <InnerFault>
+    <ErrorCode>-2147220891</ErrorCode>
+    <ErrorDetails xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Collections.Generic" />
+    <Message>Download the details and load with Plug-in Profiler.
+|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|</Message>
+    <Timestamp>2015-01-18T23:26:39.8849844Z</Timestamp>
+    <InnerFault i:nil="true" />
+    <TraceText>
+
+[PluginProfiler.Plugins: PluginProfiler.Plugins.ProfilerPlugin]
+[14827450-699f-e411-a869-d89d67768ce8: VACC.CRM.Sync.Plugins.PostOperationSync: Delete of contact (Profiler)]
+
+Entered VACC.CRM.Sync.Plugins.PostOperationSync.Execute(), Correlation Id: f5e7f973-cb6c-4286-94b6-4894c84b55f8, Initiating User: f28b863f-435e-e411-921d-9cb65490032c
+VACC.CRM.Sync.Plugins.PostOperationSync is firing for Entity: contact, Message: Delete, Correlation Id: f5e7f973-cb6c-4286-94b6-4894c84b55f8, Initiating User: f28b863f-435e-e411-921d-9cb65490032c
+Exiting VACC.CRM.Sync.Plugins.PostOperationSync.Execute(), Correlation Id: f5e7f973-cb6c-4286-94b6-4894c84b55f8, Initiating User: f28b863f-435e-e411-921d-9cb65490032c
+
+
+</TraceText>
+  </InnerFault>
+  <TraceText i:nil="true" />
+</OrganizationServiceFault>
+

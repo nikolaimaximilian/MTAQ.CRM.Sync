@@ -1,0 +1,11 @@
+W:\GIT\VACC.CRM.Sync\VACC.CRM.Sync\Workflow\obj\Debug\Workflow.csprojResolveAssemblyReference.cache
+W:\GIT\VACC.CRM.Sync\VACC.CRM.Sync\Workflow\bin\Debug\VACC.CRM.Sync.Workflow.dll
+W:\GIT\VACC.CRM.Sync\VACC.CRM.Sync\Workflow\bin\Debug\VACC.CRM.Sync.Workflow.pdb
+W:\GIT\VACC.CRM.Sync\VACC.CRM.Sync\Workflow\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+W:\GIT\VACC.CRM.Sync\VACC.CRM.Sync\Workflow\bin\Debug\Microsoft.Xrm.Sdk.dll
+W:\GIT\VACC.CRM.Sync\VACC.CRM.Sync\Workflow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+W:\GIT\VACC.CRM.Sync\VACC.CRM.Sync\Workflow\bin\Debug\Microsoft.Xrm.Sdk.xml
+W:\GIT\VACC.CRM.Sync\VACC.CRM.Sync\Workflow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+W:\GIT\VACC.CRM.Sync\VACC.CRM.Sync\Workflow\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+W:\GIT\VACC.CRM.Sync\VACC.CRM.Sync\Workflow\obj\Debug\VACC.CRM.Sync.Workflow.dll
+W:\GIT\VACC.CRM.Sync\VACC.CRM.Sync\Workflow\obj\Debug\VACC.CRM.Sync.Workflow.pdb

@@ -1,0 +1,13 @@
+W:\GIT\VACC.CRM.Sync\CustomSyncEntitiesCreator\obj\Debug\CustomSyncEntitiesCreator.csprojResolveAssemblyReference.cache
+W:\GIT\VACC.CRM.Sync\CustomSyncEntitiesCreator\bin\Debug\CustomSyncEntitiesCreator.exe.config
+W:\GIT\VACC.CRM.Sync\CustomSyncEntitiesCreator\bin\Debug\CustomSyncEntitiesCreator.exe
+W:\GIT\VACC.CRM.Sync\CustomSyncEntitiesCreator\bin\Debug\CustomSyncEntitiesCreator.pdb
+W:\GIT\VACC.CRM.Sync\CustomSyncEntitiesCreator\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+W:\GIT\VACC.CRM.Sync\CustomSyncEntitiesCreator\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+W:\GIT\VACC.CRM.Sync\CustomSyncEntitiesCreator\bin\Debug\Microsoft.Xrm.Sdk.xml
+W:\GIT\VACC.CRM.Sync\CustomSyncEntitiesCreator\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+W:\GIT\VACC.CRM.Sync\CustomSyncEntitiesCreator\obj\Debug\CustomSyncEntitiesCreator.exe
+W:\GIT\VACC.CRM.Sync\CustomSyncEntitiesCreator\obj\Debug\CustomSyncEntitiesCreator.pdb
+Z:\Richard L\VACC.CRM.Sync\CustomSyncEntitiesCreator\bin\Debug\CustomSyncEntitiesCreator.exe.config
+Z:\Richard L\VACC.CRM.Sync\CustomSyncEntitiesCreator\obj\Debug\CustomSyncEntitiesCreator.exe
+Z:\Richard L\VACC.CRM.Sync\CustomSyncEntitiesCreator\obj\Debug\CustomSyncEntitiesCreator.pdb

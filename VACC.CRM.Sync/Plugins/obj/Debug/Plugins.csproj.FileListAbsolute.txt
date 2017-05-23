@@ -1,0 +1,6 @@
+W:\GIT\VACC.CRM.Sync\VACC.CRM.Sync\Plugins\obj\Debug\Plugins.csprojResolveAssemblyReference.cache
+W:\Program Files\Microsoft Dynamics CRM\Server\bin\assembly\VACC.CRM.Sync.Plugins.dll.config
+W:\Program Files\Microsoft Dynamics CRM\Server\bin\assembly\VACC.CRM.Sync.Plugins.dll
+W:\Program Files\Microsoft Dynamics CRM\Server\bin\assembly\VACC.CRM.Sync.Plugins.pdb
+W:\GIT\VACC.CRM.Sync\VACC.CRM.Sync\Plugins\obj\Debug\VACC.CRM.Sync.Plugins.dll
+W:\GIT\VACC.CRM.Sync\VACC.CRM.Sync\Plugins\obj\Debug\VACC.CRM.Sync.Plugins.pdb
